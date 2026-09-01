@@ -1,5 +1,5 @@
-# JAVASCRIPT-BASED DRAWING APPLICATION
-
+# Ex.No:07 JAVASCRIPT-BASED DRAWING APPLICATION
+## Date:
 ## AIM
 
 To develop a JavaScript-based drawing application using HTML5 Canvas to draw shapes such as Line, Rectangle, and Circle.
